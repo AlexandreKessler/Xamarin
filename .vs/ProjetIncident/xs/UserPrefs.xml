@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3DDF12EF-04E9-41E4-86BD-46AA6B56D65E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetIncident.Core/View/HomeActivity.xaml.cs">
+    <Files>
+      <File FileName="ProjetIncident.Core/View/HomeActivity.xaml.cs" Line="14" Column="3" />
+      <File FileName="ProjetIncident.Core/View/HomeActivity.xaml" Line="19" Column="1" />
+      <File FileName="ProjetIncident.Core/ProjetIncidentPage.xaml" Line="12" Column="15" />
+      <File FileName="ProjetIncident.Core/ProjetIncidentPage.xaml.cs" Line="32" Column="24" />
+      <File FileName="ProjetIncident.Core/ViewModel/LoginViewModel.cs" Line="46" Column="32" />
+      <File FileName="ProjetIncident.Core/App.xaml.cs" Line="12" Column="12" />
+      <File FileName="ProjetIncident.Core/View/CreateAccount.xaml" Line="29" Column="1" />
+      <File FileName="ProjetIncident.Core/View/CreateAccount.xaml.cs" Line="39" Column="66" />
+      <File FileName="ProjetIncident.Core/Member.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProjetIncident.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8F47FF2E-8097-4102-9DA9-5BF2F85ECEA3">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ProjetIncident.iOS>
+  <MonoDevelop.Ide.ItemProperties.ProjetIncident.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ad051703c0181b52ed" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

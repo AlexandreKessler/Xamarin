@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ProjetIncident.Core.View.CreateAccount">
+	<ContentPage.Content>
+        <StackLayout Padding="20" BackgroundColor="LightBlue">  
+      <Label Text="Create account" TextColor="White" FontSize="20"></Label>  
+      <Entry x:Name="FirstName" Placeholder="First Name" WidthRequest="150" PlaceholderColor="Black" TextColor="White"></Entry>  
+      <Entry x:Name="LastName" Placeholder="Last Name" WidthRequest="150" PlaceholderColor="Black" TextColor="White"></Entry>  
+  
+      <StackLayout Orientation="Horizontal">  
+        <Label Text="Date of Birth" FontSize="20" TextColor="White" VerticalOptions="End"/>  
+        <DatePicker x:Name="Date" TextColor="White" VerticalOptions="End"/>  
+      </StackLayout>  
+  
+      <StackLayout>  
+        <Label Text="Time to start" VerticalOptions="End" FontSize="20" TextColor="White"/>  
+        <TimePicker x:Name="Time" TextColor="White"/>  
+      </StackLayout>  
+  
+      <StackLayout Orientation="Horizontal">  
+        <Button BackgroundColor="DarkRed" TextColor="White" Text="Save" Clicked="OnSave"/>  
+        <Button BackgroundColor="DarkRed" TextColor="White" Text="View" Clicked="OnView"/>  
+      </StackLayout>  
+
+    <Button x:Name="btn" Text="Next Page" Clicked="Next_Page" BackgroundColor="DarkRed" TextColor="White"></Button>
+            
+    </StackLayout> 
+	</ContentPage.Content>
+</ContentPage>
